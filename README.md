@@ -5,7 +5,7 @@ The Flutter `Icon` widget displays symbols such as hearts, stars, and home icons
 
 ## Demo
 
-
+![Final UI](screenshots/final.png)
 
 ## How to run
 
